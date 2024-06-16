@@ -1,6 +1,7 @@
-baseURL = 'https://showlahossain.github.io'
+baseURL = 'https://showlahossain.github.io/'
 languageCode = 'en-us'
 theme = 'paper'
+disableThemeToggle = true
 [params.profileMode]
 title = 'Showla Hossain'
 imageUrl = "photo.jpg"
@@ -8,6 +9,7 @@ imageTitle = "Trina"
 imageWidth = 160
 imageHeight = 160
 enabled = true
+
 
   [[params.profileMode.buttons]]
   name = "Nutratology"
