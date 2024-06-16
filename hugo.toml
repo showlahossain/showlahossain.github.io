@@ -3,11 +3,20 @@ languageCode = 'en-us'
 theme = 'paper'
 [params.profileMode]
 title = 'Showla Hossain'
-imageUrl = "photo.jpeg"
+imageUrl = "photo.jpg"
 imageTitle = "Trina"
 imageWidth = 160
 imageHeight = 160
 enabled = true
+
+  [[params.profileMode.buttons]]
+  name = "Nutratology"
+  url = "<www.nutratology.com?ref=SHOWLA10>"
+  
+  [[params.profileMode.buttons]]
+  name = "Elite Time"
+  url = "<https://yehielstory.com/>"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
