@@ -13,11 +13,11 @@ enabled = true
 
   [[params.profileMode.buttons]]
   name = "Nutratology"
-  url = "<www.nutratology.com?ref=SHOWLA10>"
+  url = "https://www.nutratology.com?ref=SHOWLA10"
   
   [[params.profileMode.buttons]]
   name = "Elite Time"
-  url = "<https://yehielstory.com/>"
+  url = "https://yehielstory.com/"
 
 [markup]
   [markup.goldmark]
